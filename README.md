@@ -1,4 +1,4 @@
-# kivymd_todo_and_workout_app
+# kivymd_todoapp
 To do and workout application created using kivymd and python
 
 ## Requirements
